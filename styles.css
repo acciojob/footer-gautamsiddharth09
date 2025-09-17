@@ -12,6 +12,8 @@
 .media-icons{
 	font-size:2rem;
 	padding:15px;
+	display:flex;
+	
 }
 .logo-details{
 	font-size:2rem;
