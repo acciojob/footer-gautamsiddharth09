@@ -1,1 +1,78 @@
 /* your code here */
+.content{
+	background-color:black;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+	padding:5px
+
+}
+
+.media-icons{
+	font-size:2rem;
+	padding:15px;
+}
+.logo-details{
+	font-size:2rem;
+	color:white;
+	padding:10px;
+	margin-left:10px;
+}
+ul,h2{
+	color:white;
+	color:#ccc;
+	font-size:1.2rem;
+	
+}
+
+a{
+	text-decoration:none;
+	color:white;
+	color:#ccc;
+	font-size:1rem
+}
+
+ul,li{
+	text-decoration:none;
+	color:white;
+	list-style-type:none;
+	margin:0px;
+	padding:5px;
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-evenly;
+}
+
+
+.bottom-details{
+	background-color:graytext;
+	display:flex;
+	justify-content:space-between;
+	padding:15px;
+	color:white;
+	color:#ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
